@@ -2,5 +2,5 @@
 
 
 ```
-Exercícios feitos apenas com * if * e * else *
+Exercícios feitos apenas com if e else
 ```
